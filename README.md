@@ -1,6 +1,6 @@
 # Stethoscope Sound Library
 
-I developed the Stethoscope Sound Library during my time as a student employee at the [Technovator](https://www.umb.edu/technovation/) (UMass Boston's Technology Innovation Incubator), which is part of the IT Educational Technology department at UMass Boston. This web-based audio system was specifically created for the [UMass Boston Center for Clinical Education & Research](https://www.umb.edu/nursing-health-sciences/departments-centers/center-clinical-education-research/) to provide medical students and healthcare professionals with an intuitive, tablet-optimized interface for studying and practicing auscultation sounds.
+I developed the Stethoscope Sound Library during my time as a student employee at the [Technovator](https://www.umb.edu/technovation/) (UMass Boston's Technology Innovation Incubator), which is part of the IT Educational Technology department at UMass Boston. This web-based audio system was specifically created for the [UMass Boston Center for Clinical Education & Research](https://www.umb.edu/nursing-health-sciences/departments-centers/center-clinical-education-research/) to provide nursing students with an intuitive, tablet-optimized interface for studying and practicing auscultation sounds.
 
 ## Overview
 
