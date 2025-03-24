@@ -244,3 +244,12 @@ I would like to express my gratitude to:
 - The [UMass Boston Center for Clinical Education & Research](https://www.umb.edu/nursing-health-sciences/departments-centers/center-clinical-education-research/) for their guidance in understanding the educational requirements
 - The [UMass Boston Makerspace](https://www.umb.edu/makerspace/) for their collaboration on the hardware integration
 - [Practical Clinical Skills](https://www.practicalclinicalskills.com) for providing the high-quality auscultation sounds used in this application
+
+## 📸 Screenshots
+
+![App](project-showcase/images/StethoscopeSoundLibrary.png)
+![Audio Library](project-showcase/images/StethoscopeSoundLibrary_AudioLibrary.png)
+![Audio Player](project-showcase/images/StethoscopeSoundLibrary_AudioPlayer.png)
+![Selected Library](project-showcase/images/StethoscopeSoundLibrary_SelectedLibrary.png)
+![App In-Use](project-showcase/images/StethoscopeSoundLibrary_InUse.png)
+
